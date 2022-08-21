@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frozenal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning web development using React and GraphQL
+- 🌱 I’m currently learning full-stack web development using React and NodeJS - you can check out some of my projects below!
 
 
 <!---
